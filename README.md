@@ -3,7 +3,7 @@
 1. Clone the repo
    
    ```sh
-   git clone -b FinalProject https://nodejs-course-2024-gitlab.codelx.dev/nodejs-courses-2024-georgia/kamil-piskorz.git
+   git clone https://github.com/rabarbar15/VinylStore.git
    ```   
 2. Go to project directory and build  
      
